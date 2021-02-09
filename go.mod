@@ -1,4 +1,4 @@
-module github.com/adedaleanai/cobra
+module github.com/daedaleanai/cobra
 
 go 1.14
 
